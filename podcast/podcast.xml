@@ -1,0 +1,30 @@
+<rss xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="https://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>The Blind Bridges Podcast</title>
+<description>Welcome to the Blind Bridges Podcast! The goal of this podcast is to teach people useful skills to help them become more independent at home or in the workplace, be them disabled or otherwise.</description>
+<link>https://blindbridges.org/podcast</link>
+<language>en-us</language>
+<itunes:author>Blind Bridges Informational Exchange Group</itunes:author>
+<itunes:summary>Welcome to the Blind Bridges Podcast! The goal of this podcast is to teach people useful skills to help them become more independent at home or in the workplace, be them disabled or otherwise.</itunes:summary>
+<itunes:subtitle>Blind Bridges Podcast</itunes:subtitle>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>blind bridges, blind bridges podcast, the blind bridges podcast, blind, bridges, podcast</itunes:keywords>
+<itunes:category text="Education" />
+<itunes:owner>
+<itunes:name>The Blind Bridges Podcast</itunes:name>
+<itunes:email>firecat@mysero.net</itunes:email>
+</itunes:owner>
+<atom:link href="https://blindbridges.org/podcast" rel="self" type="application/rss+xml" />
+<item>
+<title>Blind Bridges Podcast Episode 1, Changing a Wall Outlet</title>
+<link>https://blindbridges.org/podcast/ep1/ep1.mp3</link>
+<guid>https://blindbridges.org/podcast/ep1/ep1.mp3</guid>
+<description>In this episode, Firecat takes you through removing an old wall outlet and putting in a new one.</description>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>changing a wall outlet, wall outlet, wall, outlet, changing wall outlet</itunes:keywords>
+<itunes:subtitle>Changing a Wall Outlet</itunes:subtitle>
+<itunes:duration>17:35</itunes:duration>
+<pubDate>Mon, 18 Jan 2021 11:43:26 -0000</pubDate>
+<enclosure url="https://blindbridges.org/podcast/ep1/ep1.mp3" length="1055" type="audio/mpeg" /></item>
+</channel>
+</rss>
