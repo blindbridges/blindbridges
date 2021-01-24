@@ -1,14 +1,14 @@
-<h3>Episode 1, Changing a Wall Outlet</h3>
+<h3>Short 1, Operating a Cook Essentials Air-fryer</h3>
 <ul>
-<li>Duration: 17 Minutes, 35 Seconds
-<li>Date: January 18, 2021
+<li>Duration: 5 Minutes
+<li>Date: January 23, 2021
 </ul>
-<p>In this episode, Firecat takes you through removing an old wall outlet and putting in a new one.</p>
-<p>You can play the episode below, or you can <a href="ep1.mp3">click here to download it</a>.</p>
+<p>In this short podcast, Garrett gives a rundown of his air-fryer and how to use it.</p>
+<p>You can play the episode below, or you can <a href="short1.mp3">click here to download it</a>.</p>
 <button class="accordion">Audio Player</button>
 <div class="panel">
 <audio controls>
-<source src = "ep1.mp3" type = "audio/mpeg">
+<source src = "short1.mp3" type = "audio/mpeg">
       </audio>
 </div>
 <h4>Comments</h4>
@@ -19,8 +19,8 @@
     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
     /*
     var disqus_config = function () {
-    this.page.url = http://blindbridges.org/podcast/ep1;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = podep1; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    this.page.url = http://blindbridges.org/podcast/short1;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = podshort1; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
     */
     (function() { // DON'T EDIT BELOW THIS LINE

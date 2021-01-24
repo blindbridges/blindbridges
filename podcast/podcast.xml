@@ -16,6 +16,17 @@
 </itunes:owner>
 <atom:link href="https://blindbridges.org/podcast" rel="self" type="application/rss+xml" />
 <item>
+<title>Blind Bridges Podcast Short 1, Operating a Cooks Essentials Air-fryer</title>
+<link>https://blindbridges.org/podcast/short1/short1.mp3</link>
+<guid>https://blindbridges.org/podcast/short1/short1.mp3</guid>
+<description>In this short podcast, Garrett gives a rundown of his air-fryer and how to use it.</description>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:keywords>operating a cooks essentials air-fryer, operating a cooks essentials air fryer, operating an air-fryer, operating an air fryer, air-fryer, air fryer, fryer, cooks essentials, operating cooks essentials air-fryer, opperating cooks essentials air fryer, operating air-fryer, operating air fryer</itunes:keywords>
+<itunes:subtitle>Operating a Cooks Essentials Air-fryer</itunes:subtitle>
+<itunes:duration>5</itunes:duration>
+<pubDate>Sat, 23 Jan 2021 11:00:26 -0000</pubDate>
+<enclosure url="https://blindbridges.org/podcast/short1/short1.mp3" length="300" type="audio/mpeg" /></item>
+<item>
 <title>Blind Bridges Podcast Episode 1, Changing a Wall Outlet</title>
 <link>https://blindbridges.org/podcast/ep1/ep1.mp3</link>
 <guid>https://blindbridges.org/podcast/ep1/ep1.mp3</guid>
