@@ -1,6 +1,6 @@
 <h1>Home</h1>
 <h2>News</h2>
-<h3>February 16, 2021</h3>
+<h3>February 15, 2021</h3>
 <p>We apologize for the delay, but episode 2 of our podcast has been released. You can find it on our podcasts page or by clicking <a href="podcast/ep2">here</a>.</p>
 <h3>January 23, 2021</h3>
 <p>A few major changes have been made.</p>
