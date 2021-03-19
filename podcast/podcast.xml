@@ -12,9 +12,20 @@
 <itunes:category text="Education" />
 <itunes:owner>
 <itunes:name>The Blind Bridges Podcast</itunes:name>
-<itunes:email>firecat@mysero.net</itunes:email>
+<itunes:email>firecat@blindbridges.org</itunes:email>
 </itunes:owner>
 <atom:link href="https://blindbridges.org/podcast" rel="self" type="application/rss+xml" />
+<item>
+<title>Blind Bridges Podcast Episode 3, Setting up a Tent</title>
+<link>https://blindbridges.org/podcast/ep3/ep3.mp3</link>
+<guid>https://blindbridges.org/podcast/ep3/ep3.mp3</guid>
+<description>In this episode, Firecat shows you how to set up a tent for camping.</description>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>setting up a tent, setting up tent, set up, tent, set up tent</itunes:keywords>
+<itunes:subtitle>Setting up a Tent</itunes:subtitle>
+<itunes:duration>12</itunes:duration>
+<pubDate>Mon, 15 Mar 2021 11:55:00 -0000</pubDate>
+<enclosure url="https://blindbridges.org/podcast/ep3/ep3.mp3" length="300" type="audio/mpeg" /></item>
 <item>
 <title>Blind Bridges Podcast Episode 2, The Joys of Moving</title>
 <link>https://blindbridges.org/podcast/ep2/ep2.mp3</link>
