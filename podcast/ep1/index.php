@@ -31,7 +31,6 @@
 <?php include('../../header.php'); ?>
 </div>
 <div style="width:100%; text-align: center" role="main">
-<?php include('../podcast.php'); ?>
 <?php include('ep1.php'); ?>
 </div>
 <div style="position: fixed; bottom: 0; width:100%; text-align: center" role="contentinfo">
